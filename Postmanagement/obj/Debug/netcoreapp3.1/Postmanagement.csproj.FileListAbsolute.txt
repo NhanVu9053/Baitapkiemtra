@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\obj\Debug\netcoreapp3.1\Postmanagement.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\obj\Debug\netcoreapp3.1\Postmanagement.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\obj\Debug\netcoreapp3.1\Postmanagement.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\obj\Debug\netcoreapp3.1\Postmanagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\bin\Debug\netcoreapp3.1\Postmanagement.exe
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\bin\Debug\netcoreapp3.1\Postmanagement.deps.json
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\bin\Debug\netcoreapp3.1\Postmanagement.runtimeconfig.json
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\bin\Debug\netcoreapp3.1\Postmanagement.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\bin\Debug\netcoreapp3.1\Postmanagement.dll
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\bin\Debug\netcoreapp3.1\Postmanagement.pdb
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\obj\Debug\netcoreapp3.1\Postmanagement.dll
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\obj\Debug\netcoreapp3.1\Postmanagement.pdb
+C:\Users\Administrator\source\repos\Postmanagement\Postmanagement\obj\Debug\netcoreapp3.1\Postmanagement.genruntimeconfig.cache
